@@ -18,3 +18,4 @@ This project is to train model to predict the global sales and do EDA and get so
 ### Link:
 * link of original data:https://www.kaggle.com/datasets/gregorut/videogamesales
 * Tableau link:https://public.tableau.com/views/Videogame_16608389909490/Videogame?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link
+* link of slides:https://docs.google.com/presentation/d/1gfXJoewmZW9jUASmE2QxfEZ3eznU0rBSiMuiL0GhLdM/edit?usp=sharing
